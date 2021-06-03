@@ -428,7 +428,7 @@ a {
 }
 
 .schema-form{
-      height: 400px;
+      height: 450px;
     overflow-y: scroll;
     padding: 20px;
     background-color: #fff;
@@ -497,7 +497,7 @@ a {
 
 .schema-output {
     margin-bottom: 26px;
-    height: 400px;
+    height: 450px;
     overflow-y: scroll;
     padding: 20px;
     background-color: #fff;
