@@ -512,7 +512,7 @@ a {
 
 .schema_output_rdfa {
    
-    height: 407px; 
+    height: 358px;
     
 }
 
@@ -987,7 +987,7 @@ position: relative;
   transition: all 0.5s;
 }
 
-.google-div::after{
+/*.google-div::after{
     content: "";
     position: absolute;
     height: 12px;
@@ -995,6 +995,10 @@ position: relative;
     right: 10px;
     background-color: white;
     transform: rotate(45deg);
+}*/
+
+.google-div form{
+      margin-bottom: auto;
 }
 
 .google-div::nth-child(2){
